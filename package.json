@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-timbotnik01",
+  "version": "1.0.0",
+  "description": "An eslint configuration to play with.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "timbotnik",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "3.4.3",
+    "strip-json-comments": "1.0.4"
+  }
+}
